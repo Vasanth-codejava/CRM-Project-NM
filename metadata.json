@@ -1,0 +1,6 @@
+{
+  "name": "Google Auth Portal",
+  "description": "A elegant secure portal with Google Firebase Authentication which lets you authenticate, discover account metadata, and view your digital profile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
